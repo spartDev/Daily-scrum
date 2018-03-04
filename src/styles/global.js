@@ -34,8 +34,8 @@ const globalCss = () => injectGlobal`
     width: 100%;
     height: 100%;
     margin: 0;
-    background: ${palette.white};
-    color: ${palette.black};
+    background: ${palette.primary};
+    color: ${palette.white};
     font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;
     font-size: 1.4em;
     font-style: normal;
