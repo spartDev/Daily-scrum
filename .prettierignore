@@ -1,0 +1,6 @@
+es/
+lib/
+coverage/
+scripts/
+node_modules/
+jest.setup.js
