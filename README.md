@@ -1,2 +1,2 @@
 # Daily scrum
-** A simple web app for your daily scrum meeting **
+* A simple web app for your daily scrum meeting *
